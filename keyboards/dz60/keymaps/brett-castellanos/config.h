@@ -6,6 +6,8 @@
 #define NO_PRINT
 #undef COMBO_COUNT
 #define COMBO_COUNT 1
+#undef COMBO_TERM
+#define COMBO_TERM 125
 #undef TAPPING_TERM
 #define TAPPING_TERM 175
 #undef RGBLIGHT_ANIMATIONS
