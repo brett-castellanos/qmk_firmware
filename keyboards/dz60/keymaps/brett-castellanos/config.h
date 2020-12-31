@@ -1,0 +1,12 @@
+#pragma once
+
+#undef NO_DEBUG
+#define NO_DEBUG
+#undef NO_PRINT
+#define NO_PRINT
+#undef COMBO_COUNT
+#define COMBO_COUNT 1
+#undef TAPPING_TERM
+#define TAPPING_TERM 175
+#undef RGBLIGHT_ANIMATIONS
+#define RGBLIGHT_EFFECT_RAINBOW_SWIRL
